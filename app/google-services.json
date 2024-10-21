@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "528171151548",
+    "project_id": "appfirebasetapana",
+    "storage_bucket": "appfirebasetapana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528171151548:android:38edaa01755092d73f20b9",
+        "android_client_info": {
+          "package_name": "com.example.appfirebasetapa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl65KFr1KT9kB-d9ImrjykpueaCLLeeSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
